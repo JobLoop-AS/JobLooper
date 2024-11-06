@@ -12,7 +12,7 @@ For å komme i gang, klon prosjektet til din lokale maskin. I terminalen, kjør 
 git clone REPO_URL
 ```
 
-Bytt ut REPO_URL med URL-en til Git-repositoriet, du finner denne når du trykker på den grønne code knappen inne på github repoet. Den ser ut slik https://github.com/DanielDT12/joblooper.git
+Bytt ut REPO_URL med URL-en til Git-repositoriet, du finner denne når du trykker på den grønne code knappen inne på github repoet. Den ser ut slik https://github.com/JobLoop-AS/JobLooper.git
 
 Når du kloner repoet havner prosjektet(mappen) inne i mappen du kjører git clone kommandoen. f.eks ~/Desktop/din_mappe/en_annen_mappe/git_klonet_repo
 
